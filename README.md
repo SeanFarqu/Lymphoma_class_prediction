@@ -81,8 +81,4 @@ The Lymphography dataset is sourced from the UCI Machine Learning Repository. It
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License.
+- Sean Farquharson (https://github.com/SeanFarqu)
